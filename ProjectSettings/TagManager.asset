@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chaser
+  - PickUp
+  - PowerUp
+  - PointText
+  - Background
+  - Flashlight
+  - SlowDown
+  - Cobweb
+  - DarknessLevel
+  - DarknessTest
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Foreground
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1481742353
+    locked: 0
+  - name: Midground
+    uniqueID: 3789550027
+    locked: 0
+  - name: Foreground
+    uniqueID: 4227426273
+    locked: 0
+  - name: GameUI
+    uniqueID: 2461010237
+    locked: 0
+  - name: MenuUI
+    uniqueID: 61044133
+    locked: 0
